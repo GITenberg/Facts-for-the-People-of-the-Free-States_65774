@@ -1,0 +1,25 @@
+_repo: Facts-for-the-People-of-the-Free-States_65774
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Society, Foreign Anti-Slavery
+    gutenberg_agent_id: '53494'
+    url: http://www.gutenberg.org/2009/agents/53494
+  - agent_name: American Tract Society
+    alias: Society, American Tract
+    gutenberg_agent_id: '524'
+    url: http://www.gutenberg.org/2009/agents/524
+    wikipedia: https://en.wikipedia.org/wiki/American_Tract_Society
+description: ''
+gutenberg_issued: '2021-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Facts for the People of the Free States
+url: http://www.gutenberg.org/ebooks/65774
